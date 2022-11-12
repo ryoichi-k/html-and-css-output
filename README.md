@@ -2,7 +2,7 @@
 html and css warehouse
 HTMLのインデントはタブ
 
-
-```html
-
+cssファイルの先頭
+```css
+@charset "utf-8";
 ```
