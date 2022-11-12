@@ -41,4 +41,15 @@ display: block;
 補足エリア→aside
 記事・自己完結している要素→article
   
+<section>タグ
+アウトラインを明確にする。本で言う第1章
+→クローラーの理解を助ける働きがある。見出しとセットで使うケースが多い
+
+日時を表すタグ<time>
+
+copyrightのやつ<small>
+<small>©aiueo.inc</small>
+
+
+
 
