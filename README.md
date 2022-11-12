@@ -48,8 +48,9 @@ display: block;
 日時を表すタグ<time>
 
 copyrightのやつ<small>
+```css
 <small>©aiueo.inc</small>
-
+```
 
 
 
