@@ -67,5 +67,8 @@ bodyにfont-size,font-family,colorの3つのプロパティを指定すればい
 nav内のulのliのみに適用。
 nav ul li{ }
 
+## ショートハンド
+cssを一気に適用させる書き方をこういう。
+  
 
 
