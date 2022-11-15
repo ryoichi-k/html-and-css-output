@@ -75,5 +75,14 @@ cssを一気に適用させる書き方をこういう。
 box-shadow: ;
 ```
 
-
+### リスト項目
+  ```css
+list-style-type: ;
+```
+  disc,circle,square,decimal,none
+  
+### はみ出るコンテンツoverflow
+  ```css
+list-style-type: ;
+```  
 
