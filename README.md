@@ -81,8 +81,16 @@ list-style-type: ;
 ```
   disc,circle,square,decimal,none
   
-### はみ出るコンテンツoverflow
+### はみ出る部分をどう対処するかoverflow
   ```css
-list-style-type: ;
+overflow: hidden scroll;
 ```  
+  
+  visible→はみ出して表示
+  
+  hidden→非表示
+  
+  scroll→スクロールできるように
+  
+  auto→ブラウザに任せる
 
