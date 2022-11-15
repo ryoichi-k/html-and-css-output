@@ -81,7 +81,7 @@ list-style-type: ;
 ```
   disc,circle,square,decimal,none
   
-### はみ出る部分をどう対処するかoverflow
+### はみ出る部分をどう対処するかoverflow　横　縦
   ```css
 overflow: hidden scroll;
 ```  
