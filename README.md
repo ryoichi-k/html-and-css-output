@@ -93,4 +93,16 @@ overflow: hidden scroll;
   scroll→スクロールできるように
   
   auto→ブラウザに任せる
+  
+  ## divとspanタグにはcss適用以外の意味はない
+  
+  ## 行間の高さを調整する　line-height:～;
+  
+   ```css
+line-height: 1.5;
+```  
+行間は1.5～1.8がおすすめ。単位なしを推奨
+
+
+
 
