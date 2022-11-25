@@ -7,7 +7,7 @@ cssファイルの先頭
 @charset "utf-8";
 ```
 
-ボックスモデル
+## ボックスモデル
 →htmlでマークアップされたものが持つ四角い領域を構成する6つのCSSプロパティのこと
 
 width,height,border,padding,margin,content
